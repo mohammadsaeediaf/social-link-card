@@ -14,8 +14,10 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/social-link-card-using-tailwindcss-h5dneU0JeC]
-- Live Site URL: [https://mohammadsaeediaf.github.io/social-link-card/]
+- Solution URL: [My Solution](https://www.frontendmentor.io/solutions/social-link-card-using-tailwindcss-h5dneU0JeC)
+- Live Site URL: [Live Demo](https://mohammadsaeediaf.github.io/social-link-card/)
+
+## My process
 
 ### Built with
 
